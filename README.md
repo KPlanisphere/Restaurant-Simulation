@@ -2,9 +2,6 @@
 
 This project simulates a restaurant scenario where a waiter serves multiple clients. It demonstrates the use of Java threads to manage concurrent actions of serving and dining, with synchronization to ensure the correct sequence of interactions between the waiter and clients.
 
-### Repository Name
-`RestaurantSim`
-
 ### Description
 The Restaurant Simulation project uses Java's multithreading capabilities to simulate the interactions between a waiter and multiple clients in a restaurant setting. The main class, `Restaurante`, sets up the simulation by creating and managing threads for the waiter and each client, ensuring that the events occur in a synchronized and orderly manner.
 
